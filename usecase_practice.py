@@ -2,8 +2,9 @@ import os
 os.environ["HADOOP_HOME"] = "C:\\hadoop"
 
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import broadcast,year,quarter,upper,regexp_replace,lower,when,count,col,sum,trim,initcap,rlike
-
+from pyspark.sql.functions import (countDistinct,broadcast,year,quarter,upper,regexp_replace,lower,
+                                   when,count,col,sum,trim,initcap,rlike)
+from pyspark.sql.window import Windows
 spark = SparkSession.builder \
     .appName("Practice") \
     .master("local[*]") \
@@ -131,3 +132,5 @@ cust_product_summary_df=sales_df.groupby("customer_id","product_id")\
 cust_product_summary_df.show()
 cust_product_summary_df=cust_product_summary_df.withColumn('net_sales',col("total")-col("return sales"))
 cust_product_summary_df.show()
+
+sales_df.show()
