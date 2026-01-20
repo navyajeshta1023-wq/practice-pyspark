@@ -1,0 +1,69 @@
+/
+
+
+
+
+
+nity Catalog
+================
+Unity catalog is a unified way to organize and secre data in databricks
+it introduces three level hierarchy catalog->schema->table and allows you to define access control.
+
+
+Managed Tables and External Tables:
+========================================
+In databricks , managed tables are those where both metadata and actual data are controlled by databricks along with location aswell.
+if we delete managed tables, databricks deletes actal data files aswell.
+
+External tbales stores there data in user specified location like s3 or adls.
+Dropping external tables remove metadata-underlying data files remain exist.
+we usualy use managed tables for staging 
+and external tables for raw and tatget layer
+
+Delta Tables:
+==================
+Delta tables in databricks provides ACID transactions,schema enforcement,time travel
+Delta lake:
+==========
+Delta lake is a open source storage on top of data lake that brins acid transactions,schema enforcement,time trvel
+Delta tables are tables managed by delta lake which store data in parquet format along with transactional log.
+
+
+Time Travel:
+================
+It is one of te key feature of delta lake, it allows quering or restoring previous version of table.
+
+Auto Loader:
+===================
+Auto Loader in Databricks for efficiently and incrementally add new files from storage location into delt atables.
+
+Medallion Architectuure:
+==========================
+MEdallion Architecture is a data design pattern in delta tables to organize data into layers-bronze(raw layer),silver(staging layers),gold(curated layer)
+This layerd approach enabling data quality,and scalable etl pipeline.
+
+Schema evolution and schema enforcement:
+========================================
+Delta lake suppports schema evolution ,which aalloes new columns to be added automatically to existing schema and
+ schema enforcement which will ensureincompatable data is removed.
+ 
+ 
+ OPTIMIZE AND Z-ORDERED:
+ ==========================
+ OPTIMIZE:
+ ===========
+ OPTIMIZE is used to compact smaller files into larger onesit iproves query performance
+ syntax:
+ =========
+ deltaTable.optimize().executeCompaction()
+ 
+ Z-ORDER:
+ ==========
+ Z-ORDER is a technique used along with optimize to locate related data based on frequently filtered columns
+ 
+ Delta tables supports upsert(update+insert)using merge stmt.
+ 
+ Optimize Delta lake Tales:
+ ===============================
+ To optimize delta lake performance, we can compact small files using OPTIMIZE, co-locate related data with Z-ORDER,partition tables by frequently filtered columns,
+ leverage ato loader for incremental loads,and clean up old data with VACCUM

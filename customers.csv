@@ -1,0 +1,51 @@
+customer_id,name,email,phone,segment,city,state,country
+C001,Arun Kumar,arun.kumar@email.com,9876543201,,Bangalore,Karnataka,India
+C002,Divya Sharma,divya.sharma@email.com,9876543202,Corporate,Hyderabad,,India
+C003,Rahul Verma,rahul.verma@email.com,9.87654E+11,Home Office,Pune,Maharashtra,India
+C004,Sneha Reddy,sneha.reddy@email.com,9876543204,Consumer,Chennai,Tamil Nadu,India
+C005,Vikram Singh,vikram.singh@emai@l.com,9876543205,Corporate,Mumbai,Maharashtra,India
+C006,,ashok.patel@email.com,123,Consumer,Bangalore,Karnataka,
+C007,Neha Gupta,neha.gupta@email.com,9.87654E+11,Corporate,Delhi,Delhi,India
+C008,Manish Sharma,manish.sharma@email.com,9876543208,Home Office,,Telangana,India
+C009,Riya Singh,,9876543209,,Pune,Maharashtra,India
+C010,Arjun Reddy,arjun.reddy@email.com,,Corporate,Chennai,Tamil Nadu,
+C011,Kavita Mehra,,9876543211,Home Office,Mumbai,Maharashtra,India
+C012,Suman Rao,suman.rao@email.com,9876543212,Consumer,,Karnataka,India
+C013,Deepak Kumar,deepak.@kumar@email.com,9876543213,,Hyderabad,,India
+C014,Priya Sharma,priya.sharma@email.com,9876543214,Home Office,Pune,Maharashtra,India
+C015,Ajay Singh,ajay.singh@email.com,9876543215,Consumer,Chennai,Tamil Nadu,India
+C016,Anita Reddy,anita.reddy@email.com,9876543216,Corporate,Mumbai,,India
+C017,,sunil.mehta@email.com,,Home Office,Bangalore,Karnataka,India
+C018,Geeta Sharma,geeta.sharma@email.com,9876543218,Consumer,Hyderabad,Telangana,India
+C019,Rohan Verma,rohan.verma@email.com,9876543219,Corporate,,Maharashtra,India
+C020,Snehal Rao,snehal.rao@email.com,9876543220,Home Office,Chennai,Tamil Nadu,India
+C021,,ankur.singh@email.com/1,,Consumer,Mumbai,Maharashtra,India
+C022,Shreya Reddy,shreya.reddy@email.com,9876543222,,Bangalore,Karnataka,India
+C023,Karan Gupta,karan.gupta@email.com,9876543223,Home Office,Hyderabad,Telangana,India
+C024,Poonam Sharma,poonam.sharma@email.com,9876543224,Consumer,Pune,Maharashtra,India
+C025,Vikas Verma,vikas.verma@email.com,9876543225,Corporate,Chennai,Tamil Nadu,India
+C026,Anjali Mehta,anjali.mehta@email.com,9876543226,Home Office,Mumbai,Maharashtra,India
+C027,Rajesh Kumar,rajesh.kumar@email.com,9876543227,Consumer,Bangalore,Karnataka,India
+C028,Neeta Reddy,neeta.reddy@email.com,9876543228,Corporate,Hyderabad,Telangana,India
+C029,Manoj Singh,manoj.singh@email.com,9876543229,Home Office,Pune,Maharashtra,India
+C030,Rekha Sharma,rekha.sharma@email.com,9876543230,Consumer,Chennai,Tamil Nadu,India
+C031,Vinay Gupta,vinay.gupta@email.com,9876543231,Corporate,Mumbai,Maharashtra,India
+C032,Sudha Rao,sudha.rao@email.com,9876543232,Home Office,Bangalore,Karnataka,India
+C033,Praveen Kumar,praveen.kumar@email.com,9876543233,Consumer,Hyderabad,Telangana,India
+C034,Meena Singh,meena.singh@email.com,9876543234,Corporate,Pune,Maharashtra,India
+C035,Rajiv Reddy,rajiv.reddy@email.com,9876543235,Home Office,Chennai,Tamil Nadu,India
+C036,Sunita Mehta,sunita.mehta@email.com,9876543236,Consumer,Mumbai,Maharashtra,India
+C037,Harish Sharma,harish.sharma@email.com,9876543237,Corporate,Bangalore,Karnataka,India
+C038,Seema Gupta,seema.gupta@email.com,9876543238,Home Office,Hyderabad,Telangana,India
+C039,Ajay Verma,ajay.verma@email.com,9876543239,Consumer,Pune,Maharashtra,India
+C040,Rekha Rao,rekha.rao@email.com,9876543240,Corporate,Chennai,Tamil Nadu,India
+C041,Rakesh Kumar,rakesh.kumar@email.com,9876543241,Home Office,Mumbai,Maharashtra,India
+C042,Neha Mehta,neha.mehta@email.com,9876543242,Consumer,Bangalore,Karnataka,India
+C043,Varun Singh,varun.singh@email.com,9876543243,Corporate,Hyderabad,Telangana,India
+C044,Anita Sharma,anita.sharma@email.com,9876543244,Home Office,Pune,Maharashtra,India
+C045,Rahul Reddy,rahul.reddy@email.com,9876543245,Consumer,Chennai,Tamil Nadu,India
+C046,Priya Mehta,priya.mehta@email.com,9876543246,Corporate,Mumbai,Maharashtra,India
+C047,Sunil Verma,sunil.verma@email.com,9876543247,Home Office,Bangalore,Karnataka,India
+C048,Neeta Singh,neeta.singh@email.com,9876543248,Consumer,Hyderabad,Telangana,India
+C049,Manoj Reddy,manoj.reddy@email.com,9876543249,Corporate,Pune,Maharashtra,India
+C050,Shreya Sharma,shreya.sharma@email.com,9876543250,Home Office,Chennai,Tamil Nadu,India

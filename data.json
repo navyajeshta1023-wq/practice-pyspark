@@ -1,0 +1,8 @@
+{
+  "event_id": "E101",
+  "patient_id": "P001",
+  "drug_ids": "D1,D2,D3",
+  "dosage": null,
+  "event_date": "2025-01-10",
+  "updated_at": "2025-01-10 10:30:00"
+}

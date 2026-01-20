@@ -1,0 +1,17 @@
+emp_id,name,department,Employee_salary
+101,Alice,HR,55000
+102,Bob,HR,65000
+103,Carol,HR,70000
+104,David,HR,72000
+201,Eve,IT,70000
+202,Frank,IT,75000
+203,Grace,IT,None
+204,Heidi,IT,82000
+301,Ivan,Finance,50000
+302,Judy,Finance,52000
+303,Ken,Finance,None
+304,Louis,Finance,60000
+401,Mallory,Sales,58000
+402,Niaj,Sales,60000
+403,Olivia,Sales,62000
+404,Paul,Sales,None

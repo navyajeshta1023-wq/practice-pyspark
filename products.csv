@@ -1,0 +1,61 @@
+product_id,product_name,SKU,description,supplier,store_location,selling_price,cost_price
+P001,Laptop,LAP001,15" Laptop,Dell,Bangalore,65000,58000
+P002,Office Chair,CHR002,Ergonomic Chair,IKEA,Hyderabad,8500,6000
+P003,Mobile Phone,MOB003,Android Phone,Samsung,Pune,30000,27000
+P004,Printer,PRT004,Laser Printer,HP,Chennai,12000,10000
+P005,Desk Table,DTB005,Wooden Desk Table,IKEA,Mumbai,15000,12000
+P006,Monitor,MON006,LED Monitor,Dell,Bangalore,12000,10000
+P007,Keyboard,KBD007,Mechanical Keyboard,Logitech,Hyderabad,3500,2500
+P008,Mouse,MS008,Wireless Mouse,Logitech,Pune,2000,1500
+P009,Headphones,HP009,Bluetooth Headphones,Sony,Chennai,4500,3500
+P010,Webcam,WC010,HD Webcam,Logitech,Mumbai,3000,2500
+P011,Tablet,TAB011,10" Tablet,Samsung,Bangalore,25000,22000
+P012,Smartwatch,SW012,Fitness Smartwatch,Apple,Hyderabad,18000,15000
+P013,Desk Lamp,DLP013,LED Desk Lamp,IKEA,Pune,1200,900
+P014,Bookshelf,BKS014,Wooden Bookshelf,IKEA,Chennai,8000,6500
+P015,Router,RTR015,Wi-Fi Router,TP-Link,Mumbai,3500,2800
+P016,Projector,PRJ016,HD Projector,Sony,Bangalore,45000,38000
+P017,External HDD,HDD017,1TB External HDD,Seagate,Hyderabad,4500,3800
+P018,SSD,SSD018,500GB SSD,Western Digital,Pune,6000,5000
+P019,Printer Cartridge,CRT019,Ink Cartridge,HP,Chennai,1200,1000
+P020,Office Desk,ODK020,Metal Desk,IKEA,Mumbai,12000,10000
+P021,Speaker,SPK021,Bluetooth Speaker,JBL,Bangalore,5000,4200
+P022,Microphone,MIC022,USB Microphone,Blue,Hyderabad,9000,7500
+P023,Router Extender,RE023,Wi-Fi Extender,TP-Link,Pune,2200,1800
+P024,Laptop Bag,LBG024,15" Laptop Bag,Targus,Chennai,2500,2000
+P025,Chair Mat,CHM025,Office Chair Mat,IKEA,Mumbai,1800,1500
+P026,Monitor Stand,MST026,Aluminum Stand,Generic,Bangalore,3200,2500
+P027,Wireless Charger,WCH027,Qi Charger,Samsung,Hyderabad,1500,1200
+P028,Power Bank,PWB028,10000mAh Power Bank,Xiaomi,Pune,1800,1500
+P029,HDMI Cable,HDM029,2m HDMI Cable,Generic,Chennai,500,300
+P030,USB Hub,USB030,4-Port USB Hub,Generic,Mumbai,1200,1000
+P031,Laptop Cooling Pad,LCP031,Cooling Pad,Generic,Bangalore,1500,1200
+P032,Mouse Pad,MP032,Large Mouse Pad,Generic,Hyderabad,600,450
+P033,Desk Organizer,DOK033,Multi-purpose Organizer,IKEA,Pune,1200,950
+P034,Standing Desk,SD034,Adjustable Height Desk,IKEA,Chennai,25000,22000
+P035,Smart Light,SML035,Wi-Fi Smart Bulb,Philips,Mumbai,1500,1200
+P036,Air Purifier,AP036,Room Air Purifier,Philips,Bangalore,12000,10000
+P037,Notebook,NBK037,Spiral Notebook,Classmate,Hyderabad,200,150
+P038,Pen,PEN038,Gel Pen,Reynolds,Pune,50,35
+P039,Printer Stand,PRS039,Printer Table,IKEA,Chennai,3500,3000
+P040,Scanner,SCN040,Document Scanner,Canon,Mumbai,15000,13000
+P041,Desk Chair,DCH041,Ergonomic Chair,IKEA,Bangalore,9000,7500
+P042,File Cabinet,FLC042,Metal Cabinet,IKEA,Hyderabad,7000,5500
+P043,Whiteboard,WBD043,Magnetic Whiteboard,Generic,Pune,2500,2000
+P044,Projector Screen,PRS044,120" Screen,Generic,Chennai,4000,3500
+P045,Laptop Stand,LST045,Aluminum Laptop Stand,Generic,Mumbai,2000,1600
+P046,Headset,HST046,Noise-Cancelling Headset,Logitech,Bangalore,6000,5000
+P047,Desk Fan,DF047,USB Desk Fan,Generic,Hyderabad,1200,1000
+P048,Pen Holder,PH048,Wooden Pen Holder,IKEA,Pune,500,400
+P049,Notebook Holder,NH049,Wooden Notebook Holder,IKEA,Chennai,1200,1000
+P050,Stapler,STP050,Office Stapler,Generic,Mumbai,300,200
+P051,Laptop Sleeve,LS051,15" Laptop Sleeve,Targus,Bangalore,1200,950
+P052,Mouse Bungee,MB052,Mouse Cable Holder,Generic,Hyderabad,800,650
+P053,Desk Mat,DM053,PU Leather Desk Mat,Generic,Pune,1500,1200
+P054,Smart Thermostat,STH054,Wi-Fi Thermostat,Google,Chennai,9000,7500
+P055,Webcam Cover,WCV055,Privacy Cover,Generic,Mumbai,500,400
+P056,USB Flash Drive,USB056,32GB USB Drive,SanDisk,Bangalore,800,650
+P057,Portable Speaker,PS057,Bluetooth Speaker,JBL,Hyderabad,4000,3500
+P058,LCD Monitor,LCD058,24" LCD Monitor,Dell,Pune,10000,8500
+P059,Graphic Tablet,GT059,Drawing Tablet,Wacom,Chennai,12000,10000
+P060,Conference Camera,CC060,Video Conferencing Camera,Logitech,Mumbai,25000,22000
